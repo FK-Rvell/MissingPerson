@@ -1,0 +1,104 @@
+.list-contact{
+    background-color: rgba(255, 255, 255, 0.959);
+    text-transform: capitalize;
+}
+
+.contact{
+    background-color: rgb(50, 58, 55);
+}
+.msg-scroll{
+    overflow-y: scroll;
+    background-color: rgb(207, 229, 240);
+}
+.msg-scroll::-webkit-scrollbar{
+    display: none;
+}
+.alignbox{
+    position: relative;
+    justify-items: end;
+    display: block;
+    
+}
+.mm{
+    max-width: 70%;
+}
+.bt2{
+    position: relative;
+    display: block;
+    justify-items: end;
+    padding-right: 1.5%;
+}
+.user{
+    display: flex;
+    
+    width: 35%;
+    
+}
+.user-name{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    
+    text-transform: capitalize;
+}.bt{
+    width: 50%;
+    background-color: rgb(13, 175, 145);
+    padding: 1%;
+    padding-bottom: 0.1%;
+    font-size: 17px;
+    color: aliceblue;
+    border-radius: 2%;
+}
+.bt2 img,.p img{
+    border-radius: 50%;
+}
+.single-testimonial{
+    padding: 12px;
+}
+
+ .div3 {
+     
+     
+     width: 100%;
+     
+     padding: 3%;
+     border-radius: 12px;
+     justify-content: space-between;
+ }
+
+ .div3 .img {
+     width: 100%;
+ }
+
+ .div3 input[type="submit"] {
+     border: none;
+     padding: 3%;
+     background-color: #1c73ad;
+     color: #fff;
+ }
+
+ .stat img{
+    border-radius: 50px;
+ }
+.dflex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mp{
+    margin: 12px;
+}
+.top{
+    line-height: 23px;
+    
+}
+#hov:hover{
+    /* transform: translate(23px); */
+
+}
+.cd{
+    background-color: #dddbdb;
+}
+.font{
+    display: flex;
+    justify-content: space-between;
+}
